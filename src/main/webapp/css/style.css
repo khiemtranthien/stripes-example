@@ -1,0 +1,19 @@
+tr.odd {
+	background-color: #E5F5E5;
+}
+
+tr.even {
+	background-color: #FFFFFF;
+}
+
+th.sorted {
+	background-color: #EECCAA;
+}
+
+th.order1 {
+	background-image: url(../images/gradient_asc.png);
+}
+
+th.order2 {
+	background-image: url(../images/gradient_desc.png);
+}
